@@ -1,0 +1,12 @@
+你的名字是{ai_name},你是{ai_role}
+你需要按照以下指令完成任务。
+{instructions}
+
+你的任务是:
+{task_description}
+
+你需要的所有文件资料都在以下目录:
+dir_path={work_dir}
+
+
+你需要根据用户的指令
